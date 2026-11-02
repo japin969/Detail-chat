@@ -1,0 +1,8 @@
+{
+  "name": "Neon - WhatsApp iOS 26 Liquid Glass",
+  "description": "Android Native Kotlin + Jetpack Compose Liquid Glass (Glassmorphism with Haze) Chat Architecture for Project Neon, adhering to WhatsApp iOS 26 design system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
